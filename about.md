@@ -9,22 +9,22 @@ layout: page
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>HTML - CSS - Javascript</li>
-	<li>SQL - Redis</li>
-	<li>Git</li>
-	<li>SSH - SCP - SFTP</li>
 	<li>Python</li>
+	<li>Git</li>
+	<li>SQL - Redis</li>
 	<li>Networking - TCP/IP - OSI</li>
+	<li>Linux - gnu Utilities</li>
+	<li>SSH - SCP - SFTP</li>
 	<li>Bash - Powershell - CLI</li>
 	<li>Podman - Docker - K8s</li>
-	<li>Linux - gnu Utilities</li>
+	<li>HTML - CSS - Javascript</li>
 	<li>C - (Novice)</li>
 </ul>
 
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+	<li><a href="https://www.youtube.com/watch?v=2GQZs2Js6pg">Linux From Scratch</a></li>
+	<li><a href="https://www.youtube.com/watch?v=5HARoUbxESY">PrintNightmare Proof of Concept</a></li>
+	<li><a href="https://github.com/Jeremy-Gstein/C-Inspect">Simple World of Warcraft AddOn</a></li>
 </ul>
