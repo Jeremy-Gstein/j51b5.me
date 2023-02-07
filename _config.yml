@@ -20,7 +20,7 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://jeremy-gstein.github.io
+url: https://jeremy-gstein.github.io/j51b5.me
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
@@ -97,7 +97,7 @@ animation: true
 defaults:
   - scope:
       path: "" # an empty string here means all files in the project
-      layout: "post"
+    layout: "post"
     values:
       # setting all post to not hidden by default,
       # can be overridden in the front matter for a specific post
