@@ -1,6 +1,6 @@
 # main text of home
 title: Jeremy Grosenstein
-bio: Security Student, Homelab Enthusiest, and occasional drummer with a passion for Linux.
+bio: Security Student 
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -35,10 +35,10 @@ disqus:
 
 # if you don't have any of social below, comment the line
 #facebook: myfacebook
-twitter: https://twitter.com/_j3remy
+twitter: _j3remy
 #instagram: myinstagram
-linkedin: mylinkedin
-github: https://github.com/Jeremy-Gstein
+linkedin: jeremy51b5
+github: Jeremy-Gstein
 email: jeremy51b5@pm.me
 
 authors:
