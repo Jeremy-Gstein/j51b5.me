@@ -1,9 +1,9 @@
 # main text of home
 title: Jeremy Grosenstein
-bio: Security Student 
+bio: Security Student, Selfhost/Homelab, and occasional drummer.   
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: A blog about technology, security, and stuff related
 
 # if it's an external image, update below for true
 # better with square images
@@ -34,9 +34,8 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-#facebook: myfacebook
+
 twitter: _j3remy
-#instagram: myinstagram
 linkedin: jeremy51b5
 github: Jeremy-Gstein
 email: security@j51b5.me
@@ -48,12 +47,6 @@ authors:
     external-image: false
     picture: assets/images/profile.png
     twitter: _j3remy
-  #jamesfoster:
-   # name: James Foster
-    #bio: A Man who develops software with coffee
-    #external-image: false
-    #picture: assets/images/james.jpg
-    #twitter: jamesfoster
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
@@ -69,18 +62,17 @@ pagination:
   permalink: "/:num/" # pagination link that will be appended
 
 # if you don't need projects, comment the *projects* configs below
-#projects: true
+projects: true
 
 # if you don't need "about" or "blog", comment them out below
 about: true
 #blog: true 
-#  url: https://hackerchat.net
 
 # do you want to show the "read time" of the posts?
 read-time: true
 
 # do you want to show the "tags" inside the posts?
-show-tags: true
+#show-tags: true
 
 # related posts inside a post?
 related: true
