@@ -1,9 +1,8 @@
 ---
 title: "Hackerchat.net"
 layout: post
-date: 2016-01-23 22:10
+date: 2022-01-17 00:00
 tag: jekyll
-#image: https://sergiokopplin.github.io/indigo/assets/images/jekyll-logo-light-solid.png
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
@@ -12,8 +11,6 @@ category: project
 author: JG
 externalLink: false
 ---
-
-# ![Screenshot](https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/screen-shot.png)
 
 [Ubuntu-Server-Guide](https://hackerchat.net/blog2)
 
@@ -27,4 +24,3 @@ Ubuntu 20.04 Server Configuration from .ISO to ~/
 - [Firewall-Setup-with-UFW](https://hackerchat.net/blog2.html#section4)
 
 ---
-
