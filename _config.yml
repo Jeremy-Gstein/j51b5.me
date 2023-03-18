@@ -35,10 +35,11 @@ permalink: /:title/
 
 # if you don't have any of social below, comment the line
 
-twitter: _j3remy
-linkedin: jeremy51b5
 github: Jeremy-Gstein
 email: security@j51b5.me
+mastodon: shodo
+linkedin: jeremy51b5
+twitter: _j3remy
 
 authors:
   j51b5:
